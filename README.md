@@ -9,7 +9,7 @@ I'm a hard-boiled geek interested in more things than I have time for, a husband
 - **TTRPGs** — I've been playing D&D and other TTRPGs since the early 80s. And I build the model terrain to go with my games.
 - **Radio** — I like radio, all those signals out there encoded in invisible light. I'm a licensed amateur radio operator—callsign W8GUY.
 - **Electronics** — I studied electronics in high school and enjoy building and soldering my own circuit boards.
-- **Alternative Networks** — I like alternative and decentralized technology like IPFS, Reticulum, and Veylid.
+- **Alternative Networks** — I like alternative and decentralized technology like IPFS, Reticulum, and Veilid.
 - **Linguistics** — I can't get enough etymology in my live. I love learning where words come from and how grammar works. I've studied Latin and Spanish.
 
 But the code interfaces with all of it:
