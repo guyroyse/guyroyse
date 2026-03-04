@@ -14,11 +14,11 @@ I'm a hard-boiled geek interested in more things than I have time for, a husband
 
 But the code interfaces with all of it:
 
-- I taught TDD and pair programming by having everyone code D&D using the Evercraft Kata.
-- I tracked aircraft using software-defined radio and some custom-build software.
+- I taught TDD and pair programming by having everyone code D&D using the [Evercraft Kata](https://github.com/PuttingTheDnDInTDD/EverCraft-Kata).
+- I tracked aircraft using software-defined radio and some [custom-build software](https://github.com/guyroyse/tracking-aircraft).
 - I displayed my CPU utilization using an Arduino, a serial port, and an 80 year-old volt meter.
-- I built a web browser and server for Reticilum.
-- I gave a talk on how English impacted programming languages and explored what JavaScript might have looked like of it had be created by the Ancient Romans.
+- I built a [web browser](https://github.com/guyroyse/mesh-browser) and [server](https://github.com/guyroyse/rserver) for [Reticilum](https://reticulum.network/).
+- I gave a [talk](https://github.com/guyroyse/codex) on how English impacted programming languages and explored what JavaScript might have looked like of it had be created by the Ancient Romans.
 
 And all that code I write for these things, it ends up here on GitHub.
 
